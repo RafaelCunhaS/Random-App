@@ -1,6 +1,6 @@
 # Random App
 
-App reaproveitado de um processo seletivo e feito com o intuito de aprofundar meus conhecimentos em frameworks e ferramentas como **NestJS**, **Pactum**, **Swagger**, **Viteste** e **Tailwind**
+App reaproveitado de um processo seletivo e feito com o intuito de aprofundar meus conhecimentos em frameworks e ferramentas como **NestJS**, **Pactum**, **Swagger**, **Vitest** e **Tailwind**
 
 ## 💻 Tecnologias Utilizadas
 
